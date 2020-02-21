@@ -1,3 +1,11 @@
 # run on 2/21/2020 from root directory
 rsync -rv --size-only   'afodor@dtn.uncc.edu:/nobackup/afodor_research/datasets/nrap2 /nobackup/afodor_research/datasets/racialDisparityEngel /nobackup/afodor_research/datasets/IER /nobackup/afodor_research/datasets/BarnesDEC2019 /nobackup/afodor_research/datasets/IER_KristinaDEC2019 /nobackup/afodor_research/datasets/sleeve_KristinaDEC2019 /nobackup/afodor_research/datasets/intestinalAging /nobackup/afodor_research/datasets/southAfricaDecember2018 /nobackup/afodor_research/datasets/cheatham_lab /nobackup/afodor_research/datasets/lauraProjects_May_2018  /nobackup/afodor_research/datasets/LuthurJan2019 /nobackup/afodor_research/datasets/TanyaMMMay2019 /nobackup/afodor_research/datasets/EoE /nobackup/afodor_research/datasets/maigaTB_June2019 /nobackup/afodor_research/datasets/uegp /nobackup/afodor_research/datasets/EvanFeb2018 /nobackup/afodor_research/datasets/mouseStressSex /nobackup/afodor_research/datasets/NancyDessDec2019 /nobackup/afodor_research/datasets/Willow_2DataOct27 /nobackup/afodor_research/datasets/nrap /nobackup/afodor_research/datasets/GastricBypass /nobackup/afodor_research/datasets/avaC /nobackup/afodor_research/datasets/WillowDataOct27 
 
+# run on 2/21/2020 from D:\bariatricSurgeryMarch2019_2
+rsync -rv --size-only   afodor@dtn.uncc.edu:/nobackup/afodor_research/datasets/bariatricSurgeryMarch2019_2/rawData .
+
+#run on 2/21/2020 from d:\ian_191016
+rsync -rv --size-only   afodor@hpc.uncc.edu:/projects/afodor_research/datasets/ian_191016/rawData .
+
+#run on 2/21/2020 from d:\ianNov2019
+rsync -rv --size-only   afodor@dtn.uncc.edu:/nobackup/afodor_research/datasets/ianNov2019/rawData .
