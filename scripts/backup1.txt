@@ -9,3 +9,7 @@ rsync -rv --size-only   afodor@hpc.uncc.edu:/projects/afodor_research/datasets/i
 
 #run on 2/21/2020 from d:\ianNov2019
 rsync -rv --size-only   afodor@dtn.uncc.edu:/nobackup/afodor_research/datasets/ianNov2019/rawData .
+
+rsync -rv --size-only   'afodor@hpc.uncc.edu:/projects/afodor_research/datasets/anorexiaMouseTransfer /projects/afodor_research/datasets/cardia /projects/afodor_research/datasets/Combined_EoE_summer2018 /projects/afodor_research/datasets/diverticulitis /projects/afodor_research/datasets/gaStool /projects/afodor_research/datasets/iowaStateMarch2018 /projects/afodor_research/datasets/Loeser /projects/afodor_research/datasets/marthaJune2018 /projects/afodor_research/datasets/chinaDec2017 /projects/afodor_research/datasets/chinaMay2018  /projects/afodor_research/datasets/china' .
+
+
