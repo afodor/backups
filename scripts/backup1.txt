@@ -12,4 +12,5 @@ rsync -rv --size-only   afodor@dtn.uncc.edu:/nobackup/afodor_research/datasets/i
 
 rsync -rv --size-only --progress  'afodor@hpc.uncc.edu:/projects/afodor_research/datasets/anorexiaMouseTransfer /projects/afodor_research/datasets/cardia /projects/afodor_research/datasets/Combined_EoE_summer2018 /projects/afodor_research/datasets/diverticulitis /projects/afodor_research/datasets/gaStool /projects/afodor_research/datasets/iowaStateMarch2018 /projects/afodor_research/datasets/Loeser /projects/afodor_research/datasets/marthaJune2018 /projects/afodor_research/datasets/chinaDec2017 /projects/afodor_research/datasets/chinaMay2018  /projects/afodor_research/datasets/china' .
 
-
+#from home computer on 8/12/2020
+E:\maiga_Aug2020>c:\cygwin64\bin\rsync -e '/usr/bin/ssh' --chmod=777 -rv --size-only afodor@hpc.uncc.edu:/nobackup/afodor_research/datasets/maiga_Aug2020 .
