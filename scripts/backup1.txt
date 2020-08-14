@@ -14,3 +14,6 @@ rsync -rv --size-only --progress  'afodor@hpc.uncc.edu:/projects/afodor_research
 
 #from home computer on 8/12/2020
 E:\maiga_Aug2020>c:\cygwin64\bin\rsync -e '/usr/bin/ssh' --chmod=777 -rv --size-only afodor@hpc.uncc.edu:/nobackup/afodor_research/datasets/maiga_Aug2020 .
+
+#8/14/2020 - 16S Bariatric surgery dataset
+c:\cygwin64\bin\rsync  --progress -e '/usr/bin/ssh' --chmod=777 -rv --size-only afodor@hpc.uncc.edu:/nobackup/afodor_research/datasets/ian_190306_UNC22_0542_000000000-C58KK .
