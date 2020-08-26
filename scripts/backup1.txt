@@ -24,5 +24,6 @@ c:\cygwin64\bin\rsync  --progress -e '/usr/bin/ssh' --chmod=777 -rv --size-only 
 # Ian animal study 16S
 c:\cygwin64\bin\rsync  --progress -e '/usr/bin/ssh' --chmod=777 -rv --size-only afodor@hpc.uncc.edu:/nobackup/afodor_research/datasets/ian_June_2020 .
 
-
+# Ian bariatric surgery - two plates of runs 
+c:\cygwin64\bin\rsync  --progress -e '/usr/bin/ssh' --chmod=777 -rv --size-only afodor@hpc.uncc.edu:/nobackup/afodor_research/datasets/ian_aug2020/200821_UNC32-K00270_0257_AHHYVKBBXY .
  
