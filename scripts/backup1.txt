@@ -32,6 +32,6 @@ c:\cygwin64\bin\rsync  --progress -e '/usr/bin/ssh' --chmod=777 -rv --size-only 
 # more bariatric surgery runs - 
 c:\cygwin64\bin\rsync  --progress -e '/usr/bin/ssh' --chmod=777 -rv --size-only afodor@hpc.uncc.edu:/nobackup/afodor_research/datasets/ian_aug2020/200825_UNC32-K00270_0258_AHHY7TBBXY .
 
-c:\cygwin64\bin\rsync  --progress -e '/usr/bin/ssh' --chmod=777 -rv --size-only afodor@hpc.uncc.edu:/nobackup/afodor_research/datasets/ian_aug2020//nobackup/afodor_research/datasets/ian_aug2020/200820_UNC31-K00269_0289_BHHYF3BBXY .
+c:\cygwin64\bin\rsync  --progress -e '/usr/bin/ssh' --chmod=777 -rv --size-only afodor@hpc.uncc.edu:/nobackup/afodor_research/datasets/ian_aug2020/200820_UNC31-K00269_0289_BHHYF3BBXY .
 
 
