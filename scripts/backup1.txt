@@ -37,6 +37,6 @@ c:\cygwin64\bin\rsync  --progress -e '/usr/bin/ssh' --chmod=777 -rv --size-only 
 # microscopic colitis from UNC-CH
 c:\cygwin64\bin\rsync  --progress -e '/usr/bin/ssh' --chmod=777 -rv --size-only afodor@hpc.uncc.edu:/nobackup/afodor_research/datasets/MC_Set1_fastqs .
 
-# microscopic colitis from UNC-CH
+# ian new transfer from UNC-CH
 c:\cygwin64\bin\rsync  --progress -e '/usr/bin/ssh' --chmod=777 -rv --size-only afodor@hpc.uncc.edu:/nobackup/afodor_research/ianNewTransfer/190221_UNC32-K00270_0150_BH3VH5BBXY .
 
