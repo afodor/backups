@@ -42,3 +42,4 @@ c:\cygwin64\bin\rsync  --progress -e '/usr/bin/ssh' --chmod=777 -rv --size-only 
 
 c:\cygwin64\bin\rsync  --progress -e '/usr/bin/ssh' --chmod=777 -rv --size-only afodor@hpc.uncc.edu:/nobackup/afodor_research/ianNewTransfer/191016_UNC32-K00270_0208_BHC5HMBBXY .
 
+c:\cygwin64\bin\rsync  --progress -e '/usr/bin/ssh' --chmod=777 -rv --size-only afodor@hpc.uncc.edu:/nobackup/afodor_research/ianNewTransfer/191017_UNC31-K00269_0242_AHC3GHBBXY .
