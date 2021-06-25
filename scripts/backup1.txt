@@ -50,5 +50,5 @@ c:\cygwin64\bin\rsync  --progress -e '/usr/bin/ssh' --chmod=777 -rv --size-only 
 
 rsync  --progress -e '/usr/bin/ssh' --chmod=777 -rv --size-only afodor@hpc.uncc.edu:/nobackup/afodor_research/datasets/maiga_Dec2020/rawdata .
 
-todo:  /nobackup/afodor_research/datasets/kanoski_cafeteria
+c:\cygwin64\bin\rsync  --progress -e '/usr/bin/ssh' --chmod=777 -rv --size-only afodor@hpc.uncc.edu:/nobackup/afodor_research/datasets/kanoski_cafeteria .
 
